@@ -57,10 +57,6 @@ namespace BankSystem_P.Classes
 
         public string GetInformation()
         {
-            //Console.WriteLine(balanceProperties);
-
-            //var cInfo = new System.Globalization.CultureInfo("id-ID");
-
             return $"Your current balance is: {balanceProperties.ToString("c2")}";
         }
 
