@@ -4,3 +4,9 @@ c:\users\hjv43\documents\visual studio 2015\Projects\BankSystem-P\BankSystem-P\b
 c:\users\hjv43\documents\visual studio 2015\Projects\BankSystem-P\BankSystem-P\obj\Debug\BankSystem-P.csprojResolveAssemblyReference.cache
 c:\users\hjv43\documents\visual studio 2015\Projects\BankSystem-P\BankSystem-P\obj\Debug\BankSystem-P.exe
 c:\users\hjv43\documents\visual studio 2015\Projects\BankSystem-P\BankSystem-P\obj\Debug\BankSystem-P.pdb
+C:\Users\HJV45\Documents\Visual Studio 2015\Projects\BankSystem-P\BankSystem-P\bin\Debug\BankSystem-P.exe.config
+C:\Users\HJV45\Documents\Visual Studio 2015\Projects\BankSystem-P\BankSystem-P\obj\Debug\BankSystem-P.exe
+C:\Users\HJV45\Documents\Visual Studio 2015\Projects\BankSystem-P\BankSystem-P\obj\Debug\BankSystem-P.pdb
+C:\Users\HJV45\Documents\Visual Studio 2015\Projects\BankSystem-P\BankSystem-P\bin\Debug\BankSystem-P.exe
+C:\Users\HJV45\Documents\Visual Studio 2015\Projects\BankSystem-P\BankSystem-P\bin\Debug\BankSystem-P.pdb
+C:\Users\HJV45\Documents\Visual Studio 2015\Projects\BankSystem-P\BankSystem-P\obj\Debug\BankSystem-P.csprojResolveAssemblyReference.cache

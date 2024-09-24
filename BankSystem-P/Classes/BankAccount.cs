@@ -48,8 +48,7 @@ namespace BankSystem_P.Classes
             balanceProperties = initialBalance;
         }
 
-        //Base class (parents) overriding methods = polymorphism 
-        public virtual double AddToBalance (double balanceToBeAdded)
+        public double AddToBalance (double balanceToBeAdded)
         {
             balanceProperties += balanceToBeAdded;
             return balanceProperties;
@@ -57,10 +56,6 @@ namespace BankSystem_P.Classes
 
         public string GetInformation()
         {
-            //Console.WriteLine(balanceProperties);
-
-            //var cInfo = new System.Globalization.CultureInfo("id-ID");
-
             return $"Your current balance is: {balanceProperties.ToString("c2")}";
         }
 
