@@ -48,8 +48,7 @@ namespace BankSystem_P.Classes
             balanceProperties = initialBalance;
         }
 
-        //Base class (parents) overriding methods = polymorphism 
-        public virtual double AddToBalance (double balanceToBeAdded)
+        public double AddToBalance (double balanceToBeAdded)
         {
             balanceProperties += balanceToBeAdded;
             return balanceProperties;
